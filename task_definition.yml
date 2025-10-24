@@ -9,7 +9,7 @@ tasks:
     testedFunctionName: task
     userInputFilename: input.txt
     userOutputFilename: output.txt
-    max_points: 2
+    maxPoints: 2
     checkerFilename: "checker/checker.cpp"
     checkTypes:
       EXAMPLE:
