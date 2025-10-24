@@ -1,1 +1,2 @@
-print(990)
+def task():
+    print(990)
