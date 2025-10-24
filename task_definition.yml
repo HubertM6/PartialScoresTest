@@ -1,0 +1,15 @@
+sourceFile: src/task.py
+
+limits:
+  time: 10000
+  memory: 250000
+
+tasks:
+  task_1:
+    testedFunctionName: task
+    userInputFilename: input.txt
+    userOutputFilename: output.txt
+    checkTypes:
+      EXAMPLE:
+        inputFilesDirectory: tests/task_1/example/in
+        outputFilesDirectory: tests/task_1/example/out
