@@ -1,2 +1,2 @@
 def task():
-    print(990)
+    print(1000)
